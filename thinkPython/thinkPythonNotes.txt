@@ -8,3 +8,8 @@ Chapter 6
 2. Start with a working program and add small incremental changes
 3. Use intermediate values for error checking
 4. 
+
+Chapter 8
+1. Indexing starts at 0
+2. Negative numbers count backwards through strings.  [-1] is the last letter
+3. 
